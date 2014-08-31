@@ -1,13 +1,29 @@
 # depslib dependency file v1.0
-1409244996 source:/home/marcin/Documents/szkolenie/SkrzynkaGlosowa/main.cpp
+1409486857 source:/home/marcin/Documents/szkolenie/SkrzynkaGlosowa/main.cpp
 	<iostream>
 	"wiadomosc.h"
+	"abc.h"
 
-1409245628 /home/marcin/Documents/szkolenie/SkrzynkaGlosowa/wiadomosc.h
+1409252446 /home/marcin/Documents/szkolenie/SkrzynkaGlosowa/wiadomosc.h
 	<vector>
 	<string>
 
 1409245966 source:/home/marcin/Documents/szkolenie/SkrzynkaGlosowa/wiadomosc.cpp
 	"wiadomosc.h"
 	<iostream>
+
+1409486173 source:/home/marcin/Documents/szkolenie/SkrzynkaGlosowa/abc.cpp
+	<iostream>
+	<cstring>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<unistd.h>
+	<string.h>
+
+1409485537 /home/marcin/Documents/szkolenie/SkrzynkaGlosowa/abc.h
+	<iostream>
+	<cstring>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<unistd.h>
 

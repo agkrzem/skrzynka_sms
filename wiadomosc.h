@@ -41,5 +41,4 @@ struct skrzynka
     void zamien(int a, int b);
 };
 
-
 #endif // WIADOMOSC_H_INCLUDED
